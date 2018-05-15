@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NavBar</string>
+    <string name="Open">NavBar</string>
+    <string name="Close">NavBar</string>
+
+    <string-array name="lists">
+        <item>Item one</item>
+        <item>Item two</item>
+        <item>Item three</item>
+        <item>Item four</item>
+    </string-array>
+</resources>
